@@ -1,0 +1,4 @@
+https://statusneo29.jfrog.io/artifactory/svn2git-generic-local//subversion_repository.dump
+https://statusneo29.jfrog.io/artifactory/svn2git-generic-local//subversion_repository.dump
+https://statusneo29.jfrog.io/artifactory/svn2git-generic-local//subversion_repository.dump
+https://statusneo29.jfrog.io/artifactory/svn2git-generic-local//subversion_repository.dump
